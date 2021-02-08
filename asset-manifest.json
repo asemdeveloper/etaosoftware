@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/etaosoftware/static/css/main.a617e044.chunk.css",
+    "main.js": "/etaosoftware/static/js/main.20e37056.chunk.js",
+    "main.js.map": "/etaosoftware/static/js/main.20e37056.chunk.js.map",
+    "runtime-main.js": "/etaosoftware/static/js/runtime-main.57c3fd99.js",
+    "runtime-main.js.map": "/etaosoftware/static/js/runtime-main.57c3fd99.js.map",
+    "static/js/2.dc9d0d12.chunk.js": "/etaosoftware/static/js/2.dc9d0d12.chunk.js",
+    "static/js/2.dc9d0d12.chunk.js.map": "/etaosoftware/static/js/2.dc9d0d12.chunk.js.map",
+    "static/js/3.28bb6adf.chunk.js": "/etaosoftware/static/js/3.28bb6adf.chunk.js",
+    "static/js/3.28bb6adf.chunk.js.map": "/etaosoftware/static/js/3.28bb6adf.chunk.js.map",
+    "index.html": "/etaosoftware/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/etaosoftware/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dc9d0d12.chunk.js.LICENSE.txt": "/etaosoftware/static/js/2.dc9d0d12.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/etaosoftware/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57c3fd99.js",
+    "static/js/2.dc9d0d12.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.20e37056.chunk.js"
+  ]
+}
